@@ -1,0 +1,17 @@
+.color{
+    color: rgb(4, 4, 121);
+}
+
+
+select {
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.outline{
+    outline-offset: 5px 0px 0px 3px solid black;
+    
+}
